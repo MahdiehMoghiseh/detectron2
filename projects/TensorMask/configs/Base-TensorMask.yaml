@@ -1,3 +1,4 @@
+_BASE_: "../../../configs/Base-RCNN-FPN.yaml"
 MODEL:
   META_ARCHITECTURE: "TensorMask"
   MASK_ON: True
