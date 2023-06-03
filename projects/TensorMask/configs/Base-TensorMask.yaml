@@ -1,5 +1,5 @@
 MODEL:
-#   META_ARCHITECTURE: "TensorMask"
+  META_ARCHITECTURE: "TensorMask"
   MASK_ON: True
   BACKBONE:
     NAME: "build_retinanet_resnet_fpn_backbone"
